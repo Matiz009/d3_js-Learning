@@ -3,3 +3,17 @@ body {
     margin: 0;
     padding: 0;
 }
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(192, 35, 35);
+}
+
+.bar-chart {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
